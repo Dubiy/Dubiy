@@ -1,44 +1,33 @@
-## Hi there 👋
-
-<!--
-**Dubiy/Dubiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 # 👋 Hi, I'm Ihor Dubii
 
-💻 Senior Software Engineer • System Architect • IoT tinkerer  
+💻 Senior Software Engineer • System Architect • IoT Engineer  
 🌍 Based in Poland  
-🧠 Building scalable backend systems, real-time platforms, and hardware integrations  
+🧠 Designing scalable backend systems, real-time platforms, and secure identity solutions  
 
 ---
 
 ## 🚀 About Me
 
-I design and build production systems across backend, frontend, and infrastructure.
+I design and build production-grade systems across backend, frontend, and infrastructure with a strong focus on scalability, reliability, and clean architecture.
 
-My main focus areas:
+My work spans distributed systems, identity protocols, IoT platforms, and large-scale web applications.
+
+I enjoy solving complex engineering problems and turning them into maintainable, well-designed systems.
+
+📄 **CV:**  
+👉 https://docs.google.com/document/d/1BxQ2XjYolpAgPuvs9ko7pSYYQOL7URH7smFmGZnXERo/edit?usp=sharing
+
+---
+
+## 🧠 Expertise
 
 - ⚙️ Distributed systems & backend architecture
-- 🌐 Node.js / NestJS APIs
-- 🧩 Large scale Vue / React apps
-- 📡 IoT platforms (ESP32, MQTT, telemetry)
-- 🏗 DevOps & homelab infrastructure
-- 🔐 Identity / security / auth flows
-
-I enjoy turning complex problems into clean, maintainable systems.
+- 🔐 Identity & authentication systems
+- 🪪 OID4VC / Verifiable Credentials
+- 🌐 High-performance APIs
+- 📡 IoT telemetry platforms
+- 🏗 Infrastructure & DevOps
+- 🧩 Large frontend applications
 
 ---
 
@@ -51,6 +40,12 @@ I enjoy turning complex problems into clean, maintainable systems.
 - Elasticsearch
 - MQTT
 - REST / WebSockets
+
+### Identity & Security
+- OIDC / OAuth2
+- OID4VC
+- JWT / token-based auth
+- Credential issuance flows
 
 ### Frontend
 - Vue 3 / Vite / Vuetify
@@ -73,10 +68,18 @@ I enjoy turning complex problems into clean, maintainable systems.
 
 ---
 
-## 🧪 Current Interests
+## 🧪 Selected Work Areas
 
-- Scalable event-driven architectures
-- Observability & reliability
-- Verifiable credentials / identity
-- Edge computing & IoT networks
-- Developer productivity tooling
+- Financial systems & transaction processing
+- IoT monitoring and automation platforms
+- AI-powered assistants
+- Homelab infrastructure and self-hosted platforms
+- Identity and credential issuance systems
+
+---
+
+## 🤝 Connect
+
+- 📄 CV: https://docs.google.com/document/d/1BxQ2XjYolpAgPuvs9ko7pSYYQOL7URH7smFmGZnXERo/edit?usp=sharing
+- 💼 LinkedIn: [linkedin.com/in/bitstack](https://www.linkedin.com/in/bitstack)
+- 🌐 Website: [gary.pp.ua](https://gary.pp.ua)
